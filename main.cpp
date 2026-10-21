@@ -9,13 +9,13 @@
 
 #define BUTTON_PIN 13
 
-#define LORA_SCK   5
-#define LORA_MISO  19
-#define LORA_MOSI  27
-#define LORA_CS    18
-#define LORA_RST   23
-#define LORA_DIO0  26
-#define LORA_DIO1  33
+#define LORA_SCK   5U
+#define LORA_MISO  19U
+#define LORA_MOSI  27U
+#define LORA_CS    18U
+#define LORA_RST   23U
+#define LORA_DIO0  26U
+#define LORA_DIO1  33U
 
 #define LORA_FREQUENCY 915.0
 
